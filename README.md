@@ -30,6 +30,6 @@
         Testing some other stuff
         </h2></em></strong>
         <p>My favorite search engine is not
-            <a href="google.com"><strong><em>Google</em></strong></a> 
+            <a href="https://www.google.com/"><strong><em>Google</em></strong></a> 
         </p>
     
